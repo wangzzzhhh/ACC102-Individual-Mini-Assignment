@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+seaborn
+wrds
+sqlalchemy
+psycopg2-binary
+statsmodels
+jupyter
+notebook
